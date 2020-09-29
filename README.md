@@ -2,13 +2,17 @@
 
 ![](Images/me_allsmiles.jpg)
 
-## Hello Recruiters and other curious individuals, welcome to my page! 
+## Hello technologists and other curious individuals, welcome to my page! 
 
-I'm a Data Scientist, with an MSc in Data Analytics from Fordham University, and I'm in love with the process of finding meaningful insights from data in order to generate profitable business impact and social impact.
+I'm a data scientist and social entrepreneur, with an MSc in Data Analytics from Fordham University, and I'm in love with the process of finding meaningful insights from data in order to generate profitable business impact and social impact. 
 
 We all have our hobbies, and so like pinky and the brain, in my free time I love to plot ways to take over the world...mwuahahaha! 
 
 ![](Images/woour.jpg)
+
+# Articles
+I haven't been consistent as I would like with my data driven articles but you can indulge in the ones I have already published on [Medium](https://medium.com/@Emi.N.Harry/)
+Be sure to clap and follow me so you can be kept in the loop.
 
 
 # Past Projects
