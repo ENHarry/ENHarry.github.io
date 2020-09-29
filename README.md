@@ -11,7 +11,8 @@ We all have our hobbies, and so like pinky and the brain, in my free time I love
 ![](Images/woour.jpg)
 
 # Articles
-I haven't been consistent as I would like with my data driven articles but you can indulge in the ones I have already published on [Medium](https://medium.com/@Emi.N.Harry/)
+I haven't been consistent as I would like with my data driven articles but you can indulge in the ones I have already published on [Medium](https://medium.com/@Emi.N.Harry/).
+
 Be sure to clap and follow me so you can be kept in the loop.
 
 
